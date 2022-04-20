@@ -254,3 +254,4 @@ freewheel.tv, 13945, RESELLER
 improvedigital.com, 1895, RESELLER
 loopme.com, 11343, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11423, RESELLER, 6c8d5f95897a5a3b
+sample.com, 11111, RESELLER, 6c8d5f95897a5a3b
